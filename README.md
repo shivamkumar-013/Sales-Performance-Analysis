@@ -1,4 +1,1 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
-
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+Diwali Sale Project is a festive-themed e-commerce application that displays products with special Diwali discounts. Users can browse items, view discounted prices, and add products to the cart. The project focuses on implementing product listing, price calculation, and a responsive user interface.
